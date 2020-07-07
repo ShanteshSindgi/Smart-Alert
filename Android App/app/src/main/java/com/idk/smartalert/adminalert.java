@@ -33,6 +33,7 @@ EditText title,message;
     final private String serverKey = "key=" + "AAAAnGJ4nUA:APA91bHVtdEeWz-7QNksQ3i0vuzEtWz-Xk0ahEPmZxFj4_qDOq-mhz0dsd5JTEcP4_0zwz0Myrj26dFJlNaKJ2L6m_LnwivmQSfm8QKFa78xfXtMihuX7LQJ0LtqkbZjMrJ_dwDiACjk";
     final private String contentType = "application/json";
     final String TAG = "NOTIFICATION TAG";
+    //button
     Button btn;
     String NOTIFICATION_TITLE;
     String NOTIFICATION_MESSAGE;
